@@ -1,0 +1,11 @@
+database: "postgresql://rb110:rb110@datadb:5432"
+
+timetable:
+  file: "./timetable_leipzig.yaml"
+
+livedata:
+  cookie:
+  start_date: 2024-03-30
+  end_date: 2024-03-30
+  from: Naunhof
+  to: "Leipzig Hbf"
