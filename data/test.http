@@ -1,6 +1,0 @@
-GET https://bahn.expert/api/iris/v2/abfahrten/8012416?lookahead=10&lookbehind=150
-
-###
-
-GET https://www.zugfinder.net/en/directconnection-Naunhof-Leipzig_Hbf-20240516-0000-Regio
-cookie: cook=jenspetit%40posteo.net%7Cd81d637043c48a81476b96a2bef913ce; PHPSESSID=3hh1ghpcr9ns74o0m328hn88j0
